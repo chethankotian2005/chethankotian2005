@@ -13,7 +13,7 @@
 
 - 🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at **SMVITM**, Bantakal, Karnataka (2023–2027) — CGPA **8.62**
 - 💻 **Fullstack & Mobile Developer** building production-ready AI, web, and mobile applications
-- 🏆 **5x Hackathon Winner**, including **Award of Excellence at Build for Bengaluru** (VoiceGuru) and **1st Place at Build with Gemma** 
+- 🏆 **5x Hackathon Winner**, including **1st Place at Build with Gemma: Bengaluru AI Sprint** (AuditGemma, $425 prize), **Award of Excellence at Build for Bengaluru** (VoiceGuru), and **2nd Place at Hack.Algo National Hackathon** (PromptGate)
 - 🧑‍🤝‍🧑 Lead of **Team ACE**, a hackathon team with a strong competition track record
 - 🎤 College Ambassador for **Techfest, IIT Bombay**
 - 📸 Photography Lead in campus activities & part of the **SMVITM Media Team**
@@ -29,6 +29,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/-Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Gemma](https://img.shields.io/badge/-Gemma-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 
 **Mobile**
@@ -59,12 +60,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **AuditGemma** 🏆 | SME loan compliance & risk triage tool — 1st Place, Build with Gemma: Bengaluru AI Sprint ($425 prize). Four-stage pipeline: document extraction → deterministic signal layer → reasoning/scoring → conversational audit agent | FastAPI, Gemma, Ollama |
 | **[VoiceGuru](https://github.com/chethankotian2005/VoiceGuru)** 🏆 | Voice-first, multilingual AI tutoring app for State Board & CBSE students — Award of Excellence, Build for Bengaluru | Flutter, FastAPI, Gemini 2.5 Flash, Firebase, Twilio |
 | **[PromptGate](https://github.com/chethankotian2005/PromptGate)** 🥈 | LLM responses gated behind Algorand on-chain escrow micropayments — 2nd Place, Hack.Algo National Hackathon | FastAPI, React, Ollama, Algorand SDK |
+| **InvoiceMesh** | MSME invoice financing agent swarm — three-agent pipeline (Verification, Risk-Scoring, Negotiation) on Polygon Amoy testnet — built at DSU DevHack 3.0 | Next.js, FastAPI, XGBoost |
 | **[CliniQ](https://github.com/chethankotian2005/CliniQ)** | AI-driven hospital management & appointment triage system | React, Firebase, Python, Twilio |
 | **[SafeRoute](https://github.com/chethankotian2005/SafeRoute)** | ML-powered safety-first navigation using crime & lighting data | Python, ML, Google Maps API, Firebase |
 | **[Academic Setu](https://github.com/chethankotian2005/Academic-Setu)** | Constraint-optimization based conflict-free timetable generator | Python, OR-Tools, Django |
-| **[Fake News Prediction](https://github.com/chethankotian2005/Fake_News_Prediction)** | NLP/ML system for detecting and classifying fake news | Python, TensorFlow, Sklearn, Streamlit |
 
 📂 More on my [portfolio](https://chethan.tech/projects) and [GitHub](https://github.com/chethankotian2005)
 

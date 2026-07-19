@@ -13,7 +13,7 @@
 
 - 🎓 Final-year B.E. student in **Artificial Intelligence & Machine Learning** at **SMVITM**, Bantakal, Karnataka (2023–2027) — CGPA **8.62**
 - 💻 **Fullstack & Mobile Developer** building production-ready AI, web, and mobile applications
-- 🏆 **5x Hackathon Winner**, including **Award of Excellence at Build for Bengaluru** (VoiceGuru) and **2nd Place at Hack.Algo National Hackathon** (PromptGate)
+- 🏆 **5x Hackathon Winner**, including **Award of Excellence at Build for Bengaluru** (VoiceGuru) and **1st Place at Build with Gemma** 
 - 🧑‍🤝‍🧑 Lead of **Team ACE**, a hackathon team with a strong competition track record
 - 🎤 College Ambassador for **Techfest, IIT Bombay**
 - 📸 Photography Lead in campus activities & part of the **SMVITM Media Team**
